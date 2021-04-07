@@ -12,3 +12,8 @@ Y para construir el build, recueren:
 ```
 npm run build
 ```
+
+### Ingresar a la app
+
+https://ericksolar.github.io/todo-js/
+
